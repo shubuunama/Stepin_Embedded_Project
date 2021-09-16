@@ -14,6 +14,7 @@ The vehicle having a major highlight. In this innovation, it is utilized to deci
 
 * In our assesment, the most point is to plan and create the framework which is able of checking the passenger's existence and Warm Checking and Showing.
 
+![image](https://user-images.githubusercontent.com/89735311/133668399-8c5afdcc-f9b5-4b31-bfc8-dd207f1f6087.png)
 
 
 # Activity 1 Image
