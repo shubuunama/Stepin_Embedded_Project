@@ -17,7 +17,7 @@
 
 ![2021-09-16 (2)](https://user-images.githubusercontent.com/89735311/133625175-64135cec-77c3-4bcb-aead-52c1120bc04d.png)
 
-# Activity 2 Image
+# Activity 3 Image
 
 * Off Stage
 
