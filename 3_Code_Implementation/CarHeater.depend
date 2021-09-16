@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1631789603 source:c:\users\hp\onedrive\desktop\project\carheater\aep1.c
+	"AEP1.h"
+
+1631790008 c:\users\hp\onedrive\desktop\project\carheater\aep1.h
+	<avr/io.h>
+
+1631789742 source:c:\users\hp\onedrive\desktop\project\carheater\aep2.c
+	"AEP2.h"
+
+1631790183 c:\users\hp\onedrive\desktop\project\carheater\aep2.h
+	<avr/io.h>
+
+1631789859 source:c:\users\hp\onedrive\desktop\project\carheater\aep3.c
+	"AEP3.h"
+	<avr/io.h>
+	<util/delay.h>
+
+1631790367 c:\users\hp\onedrive\desktop\project\carheater\aep3.h
+	<avr/io.h>
+
+1631789408 source:c:\users\hp\onedrive\desktop\project\carheater\fuse.c
+	<avr/io.h>
+
