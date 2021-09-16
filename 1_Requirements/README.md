@@ -1,5 +1,5 @@
 
-# Embedded C Programming Activity project Case Study- Seat Heating
+# Embedded C Programming Activity project Case Study: Car Heater Control System
 
 ![image](https://user-images.githubusercontent.com/89735311/133585883-e0a86ec9-d25c-4759-8d8c-37dd8e9fdd10.png)
 ![image](https://user-images.githubusercontent.com/89735311/133585902-40310af4-ac80-45e2-ae47-1dbc5e00bd3d.png)
